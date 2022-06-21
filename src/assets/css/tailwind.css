@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-column {
+  @apply text-left;
+}
+
+.numeric-column {
+  @apply text-right;
+}
